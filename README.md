@@ -1,6 +1,9 @@
 # basic_chat_template
 
 
+chatbot created with the help of satvik and the fast build with ai team, the original project (I put the link here: https://github.com/satvik314/basic_chat_template.git) I modified it by adding a language change in Italian, Spanish and German. the chatbot keeps in memory the first 3 questions that the user asks it. The api used are from together.ai
+
+
 # 🗣️ Conversational Chatbot with Streamlit and LangChain
 
 This project demonstrates a simple chat interface for interacting with large language models (LLMs) using Streamlit and LangChain. It allows you to engage in natural conversations with LLMs like OpenAI's GPT-3.5-turbo or Google's Gemini-pro.
@@ -59,6 +62,7 @@ This project demonstrates a simple chat interface for interacting with large lan
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.
+
 
 ## License
 

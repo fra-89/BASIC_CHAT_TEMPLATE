@@ -1,3 +1,6 @@
+#api key file 
+secret.toml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -56,6 +59,11 @@ cover/
 # Translations
 *.mo
 *.pot
+
+# Virtual environment
+.venv/
+env/
+venv/
 
 # Django stuff:
 *.log
