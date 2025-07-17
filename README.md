@@ -2,6 +2,7 @@
 
 
 chatbot created with the help of satvik and the fast build with ai team, the original project (I put the link here: https://github.com/satvik314/basic_chat_template.git) I modified it by adding a language change in Italian, Spanish and German. the chatbot keeps in memory the first 3 questions that the user asks it. The api used are from together.ai
+show the result on streamlit in this link: https://application-chatbot.streamlit.app/
 
 
 # 🗣️ Conversational Chatbot with Streamlit and LangChain
